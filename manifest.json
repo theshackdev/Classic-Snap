@@ -1,0 +1,10 @@
+{
+  "name": "Classic_Snap",
+  "version_number": "1.0.1",
+  "website_url": "",
+  "description": "Adds a Classic mode to Extra Snap Points Made Easy: only the game's original snap points, and Q/E picks Top/Bottom/Edge like the base game. Its Manual Snap key cycles Classic, Auto and Manual. Client-side.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351",
+    "Searica-Extra_Snap_Points_Made_Easy-2.1.2"
+  ]
+}
